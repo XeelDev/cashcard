@@ -1,0 +1,1 @@
+Basic project to practice and demonstrate REST API development with the Spring Framework and Java 17. Utilizes Spring Boot, along with Web, Security, and Data modules. Also includes unit tests using Spring.
